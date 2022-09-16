@@ -1,0 +1,53 @@
+body{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+
+h1{
+    font-style:initial;
+    font-size: 70px;
+    text-align: center;
+    color:rgb(50, 50, 235)
+}
+
+
+.test {
+    background-color: green; 
+    margin: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.tester {
+    background-color: black;
+    margin: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.testing {
+    background-color: rgb(31, 20, 234);
+    margin: 30px;
+    display: flex;
+    justify-content: center;
+}
+.pic {
+    margin: 20px;
+    height: 200px;
+    width: 150px;
+    border: 1px solid black;
+    margin-left: 30px;
+}
+
+.pics {
+    margin: 20px;
+    height: 200px;
+    width: 150px;
+}
+
+.picture {
+    margin: 20px;
+    height: 200px;
+    width: 150px;
+}
